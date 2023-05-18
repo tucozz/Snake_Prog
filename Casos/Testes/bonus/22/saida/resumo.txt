@@ -1,0 +1,5 @@
+Movimento 11 (c) fez a cobra crescer para o tamanho 2
+Movimento 15 (c) fez a cobra crescer para o tamanho 3
+Movimento 18 (c) fez a cobra crescer para o tamanho 4
+Movimento 55 (c) fez a cobra crescer para o tamanho 5
+Movimento 58 (a) resultou no fim de jogo por conta de colisao

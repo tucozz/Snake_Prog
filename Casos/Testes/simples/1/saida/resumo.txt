@@ -1,0 +1,4 @@
+Movimento 2 (c) fez a cobra crescer para o tamanho 2
+Movimento 13 (c) fez a cobra crescer para o tamanho 3
+Movimento 17 (c) gerou dinheiro
+Movimento 18 (a) fez a cobra crescer para o tamanho 4, terminando o jogo
